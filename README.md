@@ -31,3 +31,5 @@ Technologies
 Python, pandas, matplotlib
 
 scikit-learn (modèles + métriques)
+
+DataSet Link :- https://www.kaggle.com/datasets/yasserh/titanic-dataset
